@@ -1,4 +1,4 @@
-27333143161561543
+27336654974237666
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57735,6 +57735,20 @@ connector Hirose FH12 horizontal
 0
 18
 17
+DB_Connector_Samtec
+SAMTEC_IPBT-103-H1-T-D-K
+
+
+0
+6
+6
+DB_Connector_Samtec
+SAMTEC_IPBT-104-H1-T-D-K
+
+
+0
+8
+8
 DB_Connector_USB
 USB_C_Receptacle_GCT_USB4085
 USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
