@@ -1,15 +1,21 @@
 LTspice 24.0.11 for Windows
 Circuit: * C:\Git\HP9815_OVP\Simulation\HP9815A_OVP_Sim.asc
-Start Time: Mon Aug 25 19:20:59 2025
+Start Time: Wed Aug 27 22:48:54 2025
 solver = Normal
 Maximum thread count: 32
 tnom = 27
 temp = 27
 method = modified trap
-WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v3.  Increasing period to 1.11
-WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v6.  Increasing period to 1.11
 WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v8.  Increasing period to 1.11
-WARNING: Less than two connections to node nc_01.  This node is used by v6.
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v5.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v7.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v10.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v12.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v14.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v16.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v18.  Increasing period to 1.11
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v20.  Increasing period to 1.11
 Per .tran options, skipping operating point for transient analysis.
-Total elapsed time: 2.743 seconds.
+Total elapsed time: 9.133 seconds.
 
